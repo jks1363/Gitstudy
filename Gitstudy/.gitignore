@@ -1,0 +1,7 @@
+/bin/
+<<<<<<< Upstream, based on master
+=======
+.classpath
+.project
+/.settings/
+>>>>>>> 4ec71b5 set. gitignore
